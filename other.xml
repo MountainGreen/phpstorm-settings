@@ -1,0 +1,11 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Downloads/Anja_0.icls" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="7.4.0" last-modified="1483550678000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+</application>
