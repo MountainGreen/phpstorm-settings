@@ -2,8 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
+  <component name="LiveEditOptions" chromeAutoDelay="50" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="150" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true">
+    <option name="elementHighlighting" value="true" />
   </component>
 </application>
