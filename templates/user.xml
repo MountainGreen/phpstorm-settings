@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="&lt;abbreviation&gt;" value="// =============================================================================&#10;//&#10;// Miscellaneous: Variables&#10;//&#10;// =============================================================================" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="CSS_RULESET_LIST" value="true" />
+    </context>
+  </template>
+</templateSet>
