@@ -3,11 +3,15 @@
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Source Code Pro" />
   </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="SCSS" value="true" />
+      </map>
+    </option>
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+  </component>
   <component name="LiveEditOptions" chromeAutoDelay="50" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="150" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true">
     <option name="elementHighlighting" value="true" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
