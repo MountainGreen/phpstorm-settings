@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="417abdb2-257e-4004-86b7-3c3f5e7ac20b" name="LouisdoOr Shop Theme" url="http://louisdoor:8888/">
-        <fileTransfer port="0" mountedRoot="$USER_HOME$/Sites/louisdoor/wp-content/themes/louisdoor-shop" accessType="MOUNT" />
-      </webServer>
-    </option>
-  </component>
-</application>
