@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4996f045-4264-42cf-9264-df65070e8af8" name="Kingdomino Scores" url="http://localhost:63342/kingdomino%20scores">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/Library/Mobile Documents/M6HJR9W95L~com~textasticapp~textastic/Documents/_development/Spiele/Kingdomino Scores" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
