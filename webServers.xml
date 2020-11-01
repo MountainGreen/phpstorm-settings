@@ -2,7 +2,14 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="5460e400-731e-403c-a56a-b11465cb2b4b" name="Maya" url="http://localhost:5757">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+      <webServer id="9096084f-b83a-4b26-bce4-ac704af5386d" name="Holzkunst Büttner" url="https://holzkunst-buettner.de">
+        <fileTransfer accessType="SFTP" host="ssh.strato.de" port="22" sshConfigId="6d947d9e-f97e-436a-9c07-1ccb0b04aea4" sshConfig="holzkunst-buettner.de@ssh.strato.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
       </webServer>
     </option>
   </component>
