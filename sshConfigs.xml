@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="ssh.strato.de" id="6d947d9e-f97e-436a-9c07-1ccb0b04aea4" port="22" nameFormat="DESCRIPTIVE" username="holzkunst-buettner.de" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="ssh.strato.de" id="6d947d9e-f97e-436a-9c07-1ccb0b04aea4" port="22" nameFormat="DESCRIPTIVE" username="holzkunst-buettner.de" />
     </configs>
   </component>
 </application>
