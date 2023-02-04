@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dev.alphakaio.de" id="6d947d9e-f97e-436a-9c07-1ccb0b04aea4" port="22" nameFormat="DESCRIPTIVE" username="mountain" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="dev.alphakaio.de" id="f82888cb-71f4-4eb1-af6a-c0046df40df6" port="22" nameFormat="DESCRIPTIVE" username="mountain" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
