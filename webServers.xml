@@ -5,14 +5,21 @@
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="9096084f-b83a-4b26-bce4-ac704af5386d" name="Holzkunst Büttner" url="https://holzkunst-buettner.de">
-        <fileTransfer accessType="SFTP" sshConfigId="6d947d9e-f97e-436a-9c07-1ccb0b04aea4" sshConfig="mountain@dev.alphakaio.de:22 password">
+        <fileTransfer accessType="SFTP" host="dev.alphakaio.de" port="22" sshConfigId="ac581682-e1c7-4b23-ac7b-59524f45070b" sshConfig="mountain@dev.alphakaio.de:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="c38304bf-f0bb-443c-99c8-dd3227fb5ab2" name="dev.alphakaio.de" url="http://dev.alphakaio.de">
-        <fileTransfer rootFolder="/var/www/dev/wp-content/plugins/pxschedule" accessType="SFTP" sshConfigId="6d947d9e-f97e-436a-9c07-1ccb0b04aea4" sshConfig="mountain@dev.alphakaio.de:22 password">
+        <fileTransfer rootFolder="/var/www/dev/wp-content/plugins/pxschedule" accessType="SFTP" host="dev.alphakaio.de" port="22" sshConfigId="ac581682-e1c7-4b23-ac7b-59524f45070b" sshConfig="mountain@dev.alphakaio.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1eb72fa0-1bd4-4e17-8e8f-34a512779fb3" name="PxContentOutlines (dev.alphakaio.de)" url="http://dev.alphakaio.de">
+        <fileTransfer rootFolder="/var/www/dev/wp-content/plugins/pxcontentoutlines" accessType="SFTP" host="dev.alphakaio.de" port="22" sshConfigId="ac581682-e1c7-4b23-ac7b-59524f45070b" sshConfig="mountain@dev.alphakaio.de:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
