@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="dev.alphakaio.de" id="f3912ec1-d4f1-491f-81be-2ea7757d9735" port="22" nameFormat="DESCRIPTIVE" username="mountain" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;proxyParams&quot;:{&quot;proxyHost&quot;:&quot;&quot;,&quot;proxyPort&quot;:-1,&quot;proxyType&quot;:&quot;IDE_WIDE_PROXY&quot;}}" host="193.26.159.15" id="9d7a741a-0876-4ddd-80b8-98d848274442" port="22" nameFormat="DESCRIPTIVE" username="mountain" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
