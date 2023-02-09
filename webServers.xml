@@ -25,6 +25,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="5a543ae0-1df9-4640-ac5b-f3d28b58f944" name="PxSchedules" url="https://srv.alphakaio.de">
+        <fileTransfer rootFolder="/var/www/srv/wp-content/plugins/pxschedules" accessType="SFTP" host="srv.alphakaio.de" port="22" sshConfigId="3ef3df3a-2c4a-460a-9d01-d8159f27a9cf" sshConfig="mountain@srv.alphakaio.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
