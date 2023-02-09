@@ -1,4 +1,8 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="SMART_BACKSPACE" value="0" />
+    <option name="SMART_INDENT_ON_ENTER" value="false" />
+  </component>
   <component name="LiveEditOptions" chromeAutoDelay="50" chromeUpdateJSOnChanges="true" nodeAutoDelay="150" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" useJBChromeExtension="true" />
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
